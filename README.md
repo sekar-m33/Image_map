@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''
+```
 image.html
 
 <html>
@@ -153,7 +153,7 @@ puttur.html
 </p>
 </body>
 </html>
-'''
+```
 
 # OUTPUT
 
